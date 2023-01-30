@@ -1,0 +1,16 @@
+body{
+  background: linear-gradient(to right,rgb(38, 216, 177),rgb(12, 86, 247));
+  color:#514b64;
+}
+.rounded-lg{
+  border-radius: 1rem !important;
+}
+
+.text small{
+  font-size:0.9rem;
+}
+.custom-seperator{
+  width: 5rem;
+  height: 6px;
+ 
+}
